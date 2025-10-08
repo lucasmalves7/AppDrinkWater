@@ -1,2 +1,2 @@
 # AppDrinkWater
-app
+Aplicativo para lembrar de beber água
