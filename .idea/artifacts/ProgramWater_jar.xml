@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProgramWater:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgramWater_jar</output-path>
+    <root id="archive" name="ProgramWater.jar">
+      <element id="module-output" name="ProgramWater" />
+    </root>
+  </artifact>
+</component>
